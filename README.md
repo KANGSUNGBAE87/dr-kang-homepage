@@ -1,6 +1,6 @@
-# Dr. Kang Studio Homepage
+# 강느님 / Dr. Kang Studio Homepage
 
-Public static homepage for `닥터강 / Dr. Kang Studio`.
+Public static homepage for `강느님 / Dr. Kang Studio`.
 
 ## Purpose
 
