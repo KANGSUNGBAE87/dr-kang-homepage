@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kangsungbae87.github.io/dr-kang-homepage/sitemap.xml
